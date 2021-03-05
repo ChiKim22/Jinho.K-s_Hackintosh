@@ -1,4 +1,4 @@
-# Jinho.k
+# Hackintosh
 
 
 My Hackintosh EFI folders
