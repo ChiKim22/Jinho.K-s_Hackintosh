@@ -1,6 +1,8 @@
 # Hackintosh
 
 
+OS X Big Sur
+
 My Hackintosh EFI folders
 
 
@@ -19,13 +21,10 @@ GPU : Geforce GTX 780 Ti
 PSU : 600W
 
 
-SSD : 250G M.2 SSD
+SSD : SAMSUNG 980EVO 512G
 
 
 HDD : 1T WD Blue
-
-
-OS : Mac OS X 11 Big Sur
 
 
 Bootloader : Opencore
